@@ -14,7 +14,7 @@ public class App {
 
            viagemNacional.setDestino(Destinos.BRASIL);
 
-           System.out.println(viagemNacional.getDestino());
+           System.out.println(viagemNacional.getDestino().getPais());
 
     }
 

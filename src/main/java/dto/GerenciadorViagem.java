@@ -21,7 +21,7 @@ public class GerenciadorViagem {
 
     }
 
-    public void setDestino(Destinos localDoDestino){
+    public void setDestino(Destinos localDoDestino) {
         this.destino = localDoDestino;
     }
 
